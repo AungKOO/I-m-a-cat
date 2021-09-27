@@ -2,7 +2,8 @@
 
 *A new Flutter project.*
 **This projcet is intended for absolute beginners who learning flutter**
-
+*Project Preview*
+![I'm a cat](ss.png)
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
